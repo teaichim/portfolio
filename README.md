@@ -21,7 +21,7 @@ An end-to-end web application developed with **Oracle APEX** and **PL/SQL** to m
 
 ---
 
-### [Online Store Database with Oracle 23c](link-to-repo)
+### [Online Store Database with Oracle 23c](https://github.com/teaichim/online-store-database-oracle.git)
 Simulates a production-grade online store backend with realistic data and security layers.
 
 - Built with Oracle 23c + deployed in Docker
@@ -33,7 +33,7 @@ Simulates a production-grade online store backend with realistic data and securi
 
 ---
 
-### [Company Classification with FastText](https://github.com/teaichim/online-store-database-oracle.git)
+### [Company Classification with FastText](https://github.com/teaichim/company-classification-fasttext.git)
 A text classification pipeline using **FastText** to assign companies to industry categories based on their descriptions.
 
 - Data preprocessing and label engineering
